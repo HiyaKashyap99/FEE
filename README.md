@@ -1,2 +1,0 @@
-# FEE
-Assignment 1
